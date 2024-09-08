@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs from GIT refresh"
+  message: "Welcome to EazyBank cards related QA APIs from GIT BUS refresh"
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "{cipher}59de3c39b28083426896019a393d5dcdcd0b92dbcebc8e9a6a426e79c7597df4916d5fed51d9614c5676cd1309c322f7"
